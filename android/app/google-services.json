@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281963234058",
+    "project_id": "chatapp-3b270",
+    "storage_bucket": "chatapp-3b270.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281963234058:android:1249795e280ad05f4fb0f3",
+        "android_client_info": {
+          "package_name": "br.com.gpsrastro.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281963234058-h8etb5angt29idj3sfnilhkt4hv9l66u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8I3cKqwloujNWVCy-fMp3MkfFHb95Egg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281963234058-h8etb5angt29idj3sfnilhkt4hv9l66u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
